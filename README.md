@@ -1,7 +1,7 @@
 # Brute-Force Script Attack to Django Admin Login
 
 * Bypass CSRF.
-* Import option wordlist from the internet.
+* Import wordlist from the internet.
 
 ### Usage
 ```python django-login-bf.py protocol://domain username wordlist_file```
