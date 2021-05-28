@@ -9,7 +9,7 @@ or
 ```python django-login-bf.py protocol://domain username https://www.*.com/wordlist.txt```
 
 ### Screenshot:
-![Screenshot](https://mordavid.co.il/github/images/brute-force-django-admin-panel.jpg)
+![Screenshot](https://mordavid.co.il/github/images/brute-force-django-admin-panel_small.jpg)
 
 ### Changelog:
 * 1.0 First Version
